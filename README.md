@@ -7,3 +7,11 @@ POST&top_list_v2/update_score&device_id=imei_865685027475153_uuid_14734065398459
 
 
 ![](/assets/屏幕快照 2016-09-09 15.07.06.png)
+
+
+
+
+
+
+{"id":"1989","name":"\u4e13\u9898","english_name":"","sign":"zhuanti","pic":"","ui":"MixTypeTwo","attrs":{"showWeather":"0","listBackground":"#eeeeee","navBarTitle":"","navBarBackground":"#ffffff","openColumn":"0","showSlide":"0","slidePicCount":"5","slideHeight":"200","button_backgroundcolor":"#6496ff","shouldShowNavLogo":"0","shouldShowSlideTitle":"1","columnFontColor":"","columnCheckedBackgroundColor":"","columnSpace":"","columnBackgroundColorAlpha":"1","columnBackgroundColor":"","navigate_left_action":"","navigate_right_action":"","columnAverage":"0","columnStyle":"default","moduleIsLevel2":"0","sliderStyle":"0","columnLocalCity":"","showCoverColumn":"0","columnFontSize":"15","showfloatwindow":"","colomnUnchangeTitle":"0","slideImageHeightAsWidthRatio":"2","navigate_image_left":"","mixCardVerticalDistance":"0","slideTitleBold":"0","forceShowTitle":"0","moduleNavTitleColor":"#ffffff","openColumnSort":"0","canSubscribe":"0"},"api":{"column_url":"http:\/\/pmobile.ijntv.cn\/ijntv30\/zt_news_recomend_column.php","content_url":"http:\/\/pmobile.ijntv.cn\/ijntv30\/zt_news.php","detail_url":"http:\/\/pmobile.ijntv.cn\/ijntv30\/item.php","related_content_url":"http:\/\/pmobile.ijntv.cn\/ijntv30\/related_content.php","locate_column":"http:\/\/pmobile.ijntv.cn\/ijntv30\/locate_column.php","related_content":"http:\/\/pmobile.ijntv.cn\/ijntv30\/related_content.php","get_treasure":"http:\/\/pmobile.ijntv.cn\/ijntv30\/get_treasure.php"},"button_go":"","_listStyleSet":{"23":{"titleFontSize":"17","contentSideDistance":"5","contentTopDistance":"5","showBrief":"0","titleLineNum":"2"}}}
+
